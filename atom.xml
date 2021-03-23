@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Fun的blog</title>
+  
+  <subtitle>装可爱好累      还好我是真的可爱</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://Fun.cn/"/>
+  <updated>2020-12-16T00:43:56.000Z</updated>
+  <id>https://Fun.cn/</id>
+  
+  <author>
+    <name>Fun</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>数学评价模型（二）：模糊综合评判</title>
+    <link href="https://Fun.cn/2020/12/15/fuzzy-comprehensive-evaluation/"/>
+    <id>https://Fun.cn/2020/12/15/fuzzy-comprehensive-evaluation/</id>
+    <published>2020-12-15T07:32:47.000Z</published>
+    <updated>2020-12-16T00:43:56.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;综合评判就是对受多个因素制约的事物或对象作出一个总的评价&lt;/strong&gt;，这是在日常生活和科研工作中经常遇到的问题，例如对学生的评价应该考虑到各门功课的成绩，但绝不能忽略品行和健康。在歌手大赛中，也不能只考虑艺术水平而忽略了歌手的文化素质。由于从多方面对事
+        
+      
+    
+    </summary>
+    
+      <category term="数学建模" scheme="https://Fun.cn/categories/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/"/>
+    
+    
+      <category term="matlab" scheme="https://Fun.cn/tags/matlab/"/>
+    
+      <category term="数学评价模型" scheme="https://Fun.cn/tags/%E6%95%B0%E5%AD%A6%E8%AF%84%E4%BB%B7%E6%A8%A1%E5%9E%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>计算机下SSL安全网络通信</title>
+    <link href="https://Fun.cn/2020/12/14/ssl-secure-network-communication/"/>
+    <id>https://Fun.cn/2020/12/14/ssl-secure-network-communication/</id>
+    <published>2020-12-14T00:21:38.000Z</published>
+    <updated>2020-12-16T00:43:56.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;SSL安全套接层&quot;&gt;&lt;a href=&quot;#SSL安全套接层&quot; class=&quot;headerlink&quot; title=&quot;SSL安全套接层&quot;&gt;&lt;/a&gt;SSL安全套接层&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;SSL安全套接层（Secure Socket
+        
+      
+    
+    </summary>
+    
+      <category term="计算机" scheme="https://Fun.cn/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+    
+      <category term="SSL" scheme="https://Fun.cn/tags/SSL/"/>
+    
+      <category term="网络通信" scheme="https://Fun.cn/tags/%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/"/>
+    
+      <category term="安全" scheme="https://Fun.cn/tags/%E5%AE%89%E5%85%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>国粹——中国象棋震撼来袭，python的赶紧上车！</title>
+    <link href="https://Fun.cn/2020/12/13/chinese-chess/"/>
+    <id>https://Fun.cn/2020/12/13/chinese-chess/</id>
+    <published>2020-12-13T07:22:31.000Z</published>
+    <updated>2020-12-16T00:43:56.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;阅读博客前，先点赞，养成习惯，顺便来个关注，这对我是最大的鼓励！！！&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;中国象棋相必大家都玩过，突发奇想，想着怎么用python把中国国粹的中国象棋做出来呢？？？？？？&lt;/p
+        
+      
+    
+    </summary>
+    
+      <category term="python" scheme="https://Fun.cn/categories/python/"/>
+    
+    
+      <category term="python" scheme="https://Fun.cn/tags/python/"/>
+    
+      <category term="turtle" scheme="https://Fun.cn/tags/turtle/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue 3.0 来了，我们该做些什么？</title>
+    <link href="https://Fun.cn/2020/12/10/vue-3-0/"/>
+    <id>https://Fun.cn/2020/12/10/vue-3-0/</id>
+    <published>2020-12-10T05:50:43.000Z</published>
+    <updated>2020-12-16T00:43:56.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;靓仔路过，不要错过&quot;&gt;&lt;a href=&quot;#靓仔路过，不要错过&quot; class=&quot;headerlink&quot; title=&quot;靓仔路过，不要错过&quot;&gt;&lt;/a&gt;靓仔路过，不要错过&lt;/h1&gt;&lt;p&gt;想必 Vue3.0 发布这件事，大家都知道了。&lt;/p&gt;
+&lt;p&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+      <category term="开发日常" scheme="https://Fun.cn/categories/%E5%BC%80%E5%8F%91%E6%97%A5%E5%B8%B8/"/>
+    
+    
+      <category term="Vue 3.0" scheme="https://Fun.cn/tags/Vue-3-0/"/>
+    
+      <category term="javascript" scheme="https://Fun.cn/tags/javascript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数学评价模型（一）：层次分析法</title>
+    <link href="https://Fun.cn/2020/12/08/analytic-hierarchy-process/"/>
+    <id>https://Fun.cn/2020/12/08/analytic-hierarchy-process/</id>
+    <published>2020-12-08T13:31:16.000Z</published>
+    <updated>2020-12-16T00:43:56.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;层次分析法（Analytic Hierarchy Process，简称 AHP）&lt;/strong&gt;是对一些较为复杂、较为模糊的问题作出决策的简易方法，它特别适用于那些难于完全定量分析的问题。它是美国运筹学家 T. L. Saaty 教授于上世纪 70
+        
+      
+    
+    </summary>
+    
+      <category term="数学建模" scheme="https://Fun.cn/categories/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/"/>
+    
+    
+      <category term="matlab" scheme="https://Fun.cn/tags/matlab/"/>
+    
+      <category term="数学评价模型" scheme="https://Fun.cn/tags/%E6%95%B0%E5%AD%A6%E8%AF%84%E4%BB%B7%E6%A8%A1%E5%9E%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Matlab串联矩阵函数【horzcat】详细解析</title>
+    <link href="https://Fun.cn/2020/12/07/the-series-matrix-function-horzcat/"/>
+    <id>https://Fun.cn/2020/12/07/the-series-matrix-function-horzcat/</id>
+    <published>2020-12-07T00:43:26.000Z</published>
+    <updated>2020-12-16T00:43:56.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;语法&quot;&gt;&lt;a href=&quot;#语法&quot; class=&quot;headerlink&quot; title=&quot;语法&quot;&gt;&lt;/a&gt;语法&lt;/h1&gt;&lt;pre class=&quot;line-numbers language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;C
+        
+      
+    
+    </summary>
+    
+      <category term="matlab" scheme="https://Fun.cn/categories/matlab/"/>
+    
+    
+      <category term="matlab" scheme="https://Fun.cn/tags/matlab/"/>
+    
+      <category term="函数" scheme="https://Fun.cn/tags/%E5%87%BD%E6%95%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数据分析模型（二）：模糊聚类分析方法及实例（附完整代码）</title>
+    <link href="https://Fun.cn/2020/12/05/fuzzy-cluster-analysis/"/>
+    <id>https://Fun.cn/2020/12/05/fuzzy-cluster-analysis/</id>
+    <published>2020-12-05T11:30:02.000Z</published>
+    <updated>2020-12-16T00:43:56.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;聚类分析是数据挖掘技术中的一种重要的方法，可以作为一个独立的工具来获得数据分布情况，它广泛地应用于&lt;strong&gt;模式识别、数据分析、图像处理、生物学、经济学&lt;/strong&gt;等许多领域。&lt;/p&gt;
+&lt;p&gt;聚类分析方法是数理统计中研究“==物以类聚==”的一种多元分析方法，及
+        
+      
+    
+    </summary>
+    
+      <category term="数学建模" scheme="https://Fun.cn/categories/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/"/>
+    
+    
+      <category term="数学分析模型" scheme="https://Fun.cn/tags/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%E6%A8%A1%E5%9E%8B/"/>
+    
+      <category term="matlab" scheme="https://Fun.cn/tags/matlab/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>教你在python中用不同的方式画不同颜色的画布</title>
+    <link href="https://Fun.cn/2020/12/05/different-color-canvas/"/>
+    <id>https://Fun.cn/2020/12/05/different-color-canvas/</id>
+    <published>2020-12-05T07:57:15.000Z</published>
+    <updated>2020-12-16T00:43:56.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;摘要&quot;&gt;&lt;a href=&quot;#摘要&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="python" scheme="https://Fun.cn/categories/python/"/>
+    
+    
+      <category term="python" scheme="https://Fun.cn/tags/python/"/>
+    
+      <category term="numpy" scheme="https://Fun.cn/tags/numpy/"/>
+    
+      <category term="OpenCV" scheme="https://Fun.cn/tags/OpenCV/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>手把手教你进行pip换源</title>
+    <link href="https://Fun.cn/2020/12/03/pip-change-source/"/>
+    <id>https://Fun.cn/2020/12/03/pip-change-source/</id>
+    <published>2020-12-03T12:27:39.000Z</published>
+    <updated>2020-12-16T00:43:56.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;为什么要换源&quot;&gt;&lt;a href=&quot;#为什么要换源&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="python" scheme="https://Fun.cn/categories/python/"/>
+    
+    
+      <category term="python" scheme="https://Fun.cn/tags/python/"/>
+    
+      <category term="pip" scheme="https://Fun.cn/tags/pip/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python实现树莓派摄像头持续录像并传送到主机</title>
+    <link href="https://Fun.cn/2020/12/03/raspberry-pi-camera/"/>
+    <id>https://Fun.cn/2020/12/03/raspberry-pi-camera/</id>
+    <published>2020-12-03T07:40:22.000Z</published>
+    <updated>2020-12-16T00:43:56.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;关于树莓派，想必从事嵌入式开发的开发者都有听过，树莓派原名为&lt;code&gt;Raspberry Pi&lt;/code&gt;，也就是它的英文读法，树莓派诞生于英国，由“Raspberry Pi
+        
+      
+    
+    </summary>
+    
+      <category term="python" scheme="https://Fun.cn/categories/python/"/>
+    
+    
+      <category term="python" scheme="https://Fun.cn/tags/python/"/>
+    
+      <category term="Raspberry Pi" scheme="https://Fun.cn/tags/Raspberry-Pi/"/>
+    
+      <category term="网络" scheme="https://Fun.cn/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数学分析模型（一）：数据的无量纲处理方法及示例（附完整代码）</title>
+    <link href="https://Fun.cn/2020/12/01/dimensionless-processing-of-data/"/>
+    <id>https://Fun.cn/2020/12/01/dimensionless-processing-of-data/</id>
+    <published>2020-12-01T06:27:36.000Z</published>
+    <updated>2020-12-16T00:43:56.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;在对实际问题建模过程中，特别是在建立指标评价体系时，常常会面临不同类型的数据处理及融合。而各个指标之间由于计量单位和数量级的不尽相同，从而使得各指标间不具有可比性。在数据分析之前，通常需要先将数据标准化，利用标准化后的数据进行分析。数据标准化处理主要包括同趋化处理和无量纲化
+        
+      
+    
+    </summary>
+    
+      <category term="数学建模" scheme="https://Fun.cn/categories/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/"/>
+    
+    
+      <category term="数学分析模型" scheme="https://Fun.cn/tags/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%E6%A8%A1%E5%9E%8B/"/>
+    
+      <category term="matlab" scheme="https://Fun.cn/tags/matlab/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>基于混沌Logistic加密算法的图片加密与还原</title>
+    <link href="https://Fun.cn/2020/12/01/ji-yu-hun-dun-logistic-jia-mi-suan-fa-de-tu-pian-jia-mi-yu-huan-yuan/"/>
+    <id>https://Fun.cn/2020/12/01/ji-yu-hun-dun-logistic-jia-mi-suan-fa-de-tu-pian-jia-mi-yu-huan-yuan/</id>
+    <published>2020-12-01T00:12:04.000Z</published>
+    <updated>2020-12-16T00:43:56.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;摘要&quot;&gt;&lt;a href=&quot;#摘要&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="数字图像处理" scheme="https://Fun.cn/categories/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+    
+    
+      <category term="matlab" scheme="https://Fun.cn/tags/matlab/"/>
+    
+      <category term="Logistic加密" scheme="https://Fun.cn/tags/Logistic%E5%8A%A0%E5%AF%86/"/>
+    
+      <category term="数字图像处理" scheme="https://Fun.cn/tags/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>十大经典排序算法整理汇总（附代码）</title>
+    <link href="https://Fun.cn/2020/02/16/sort-algorithms/"/>
+    <id>https://Fun.cn/2020/02/16/sort-algorithms/</id>
+    <published>2020-02-16T07:09:23.000Z</published>
+    <updated>2020-12-16T00:43:56.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;关注公众号【做一个柔情的程序猿】，每日算法干货马上就来！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;/medias/contact.jpg&quot; alt&gt;&lt;/p&gt;
+&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="编程算法" scheme="https://Fun.cn/categories/%E7%BC%96%E7%A8%8B%E7%AE%97%E6%B3%95/"/>
+    
+    
+      <category term="leetcode" scheme="https://Fun.cn/tags/leetcode/"/>
+    
+      <category term="算法" scheme="https://Fun.cn/tags/%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+</feed>
